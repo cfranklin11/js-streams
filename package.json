@@ -1,0 +1,19 @@
+{
+  "name": "js-streams",
+  "version": "1.0.0",
+  "description": "Example of steams in browser & server-side JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cfranklin11/js-streams.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cfranklin11/js-streams/issues"
+  },
+  "homepage": "https://github.com/cfranklin11/js-streams#readme"
+}
